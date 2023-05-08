@@ -1,18 +1,16 @@
 # Hi there, I'm Szymon 👋
 
-I am an IT specialist with a demonstrated history of working in the hospital and health care industry as a system and network administrator.
-My career objective is to become a DevOps in a cloud-based solution. I am always open to new challenges.
+As an experienced IT specialist with a demonstrated history of working in the hospital and health care industry, I possess a strong skillset in Linux (CentOS, Ubuntu), Windows Server (2012+), network administration, backup solutions, and virtualization technologies such as VMware and Hyper-V. With a keen eye for detail, I have a proven track record of delivering effective solutions to complex IT challenges. My goal is to continue developing my skills and utilize my experience in system and network administration to drive the success of a dynamic organization.
 
 ## 🌱 I’m currently learning
 
-- C#
+- C# (ASP.NET)
 - PowerShell
-- Docker
 - Ansible
 
 ## 🔭 I’m working on
 
--  automating everything that is possible
+I am currently focused on automating administrative tasks to improve system efficiency and reduce the workload on the IT team. Specifically, I am working on automating service management, backup and replication tasks, and other repetitive tasks.
 
 ## 📫 Contact Me
 LinkedIn: [@szymon-guzik](https://www.linkedin.com/in/szymon-guzik/)
