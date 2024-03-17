@@ -4,8 +4,8 @@ I'm an experienced system and network engineer with a demonstrated history of wo
 
 ## 🌱 I’m currently learning
 
-- C# (ASP.NET)
-- PowerShell
+- Flutter
+- TypeScript
 - Ansible
 
 ## 🔭 I’m working on
