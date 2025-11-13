@@ -1,18 +1,18 @@
-# Hi there, I'm Szymon 👋
+## Hi there! 👋
 
-As an adept system and network engineer, I bring experience from diverse environments, including international corporations and healthcare institutions. My skillset encompasses Linux, Windows Server, network administration, backup solutions, and cutting-edge virtualization technologies like VMware and Hyper-V. With a meticulous eye for detail, I've consistently delivered effective solutions to intricate IT challenges. I aim to hone my expertise further and leverage my system and network administration background to propel organizational success.
+I'm **Szymon**, a passionate software developer from **Poland**. I enjoy building applications that make a difference, leveraging modern technologies to create innovative solutions.
 
-## 🌱 I’m currently learning
+## About Me
 
-- Azure
-- TypeScript
-- Firebase
-- Ansible
-- Terraform
+I have experience in various programming languages and frameworks and technlogies. Currently, I’m exploring **Terraform, Kubernetes** and **Github Actions CI/CD**, working on projects that focus on automation, continues integration and deployment. I am always eager to learn and take on new challenges.
 
-## 🔭 I’m working on
+## Skills & Technologies
 
-I am currently focused on automating administrative tasks to improve system efficiency and reduce the workload on the IT team. Specifically, I am working on automating service management, backup and replication tasks, and other repetitive tasks. Additionally, I am developing a resume creator app using React, TypeScript, and Firebase.
+[![My Skills](https://skillicons.dev/icons?i=docker,react,js,css,html,git,github,flutter,firebase,bun,githubactions,powershell,bash,linux,aws,azure&perline=8)](https://skillicons.dev)
+
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghornon&layout=compact&theme=dark)](Stats)
 
 ## 📫 Contact Me
 LinkedIn: [@szymon-guzik](https://www.linkedin.com/in/szymon-guzik/)
